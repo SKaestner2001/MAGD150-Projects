@@ -1,7 +1,5 @@
 # MAGD 150 Projects
 
-[editor on GitHub](https://github.com/SKaestner2001/MAGD150-Projects/edit/gh-pages/README.md)
-
 ## Interactive TV Project
 An interactive television is displayed on the screen. It has two buttons, one to power the television and one to flip to a different channel. Clicking the power button turns the television on and off. Clicking the channel button brings up a bouncing ball that is contained within the screen's limitations.
 LINK: https://github.com/SKaestner2001/MAGD150-Projects/tree/gh-pages/f21magd150lab05_Kaestner_2021_10_20_01_12_35
